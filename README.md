@@ -9,3 +9,6 @@ Here are the questions we are look to answer for this project:
 what the stock market, as a whole, looks like after political elections (midterm or presidential )?
 What does the different sectors market looks like after an elections-> what sectors or area get more focus or funds after an elections
 what are our predictions for the market for upcoming elections
+
+###Data
+Links to data sources are located in the data folder
