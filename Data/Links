@@ -8,7 +8,10 @@ https://www.forbes.com/sites/mikepatton/2020/08/25/how-stocks-performed-based-on
 --Article detailing how the SP500 performed each year based on the political party
 
 https://etfdb.com/etfs/
+--ETF Directory with data based on different sectors
 
 https://financialmodelingprep.com/developer/docs/sectors-pe-ratio#Python
+--API that calculates sector PE ratios from companies in a specific sector
 
 https://finance.yahoo.com/quote/%5EGSPC/history?period1=938044800&period2=1632355200&interval=1mo&filter=history&frequency=1mo&includeAdjustedClose=true
+--Yahoo Finances SP500 Historical Data
