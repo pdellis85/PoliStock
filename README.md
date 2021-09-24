@@ -2,7 +2,8 @@
 
 ### Project Proposal and Outline
 
-Our project is to observe the corrlation between the stock market and political elections over the pass 20 years. We'll examine relationships between x nuumber of sectors and try to predict what the market will look like for after upcomping elections.
+Our project is to observe the corrlation between tpolitical elections outcomes and the stock market over the pass 20 years. 
+We'll examine how one parties win affects 3 market sectors as well as provided our prediction of what the market will look like after the upcomping midterm election.
 
 ### Questions
 Here are the questions we are look to answer for this project:
