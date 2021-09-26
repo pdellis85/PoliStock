@@ -3,7 +3,7 @@
 ### Project Proposal and Outline
 
 Our project is to observe the correlation between political elections outcomes and the stock market over the past 20 years. 
-We'll examine how one party's win affects 3 market sectors as well as provide our prediction of what the market will look like after the upcomping midterm elections.
+We'll examine how one party's win affects 5 market sectors as well as provide our prediction of what the market will look like after the upcomping midterm elections.
 
 ### Questions
 Here are the questions we are looking to answer for this project:
