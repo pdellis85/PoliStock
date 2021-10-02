@@ -6,24 +6,37 @@ We set out to observe correlations between presidential elections and the stock 
 
 We used the Yahoo_fin Library to pull closing data for the S&P 500 index and four S&P 500 sectors:
 
-  1. Energy Sector (XLE)
-  2. Finance Sector (XLF)
-  3. Technology Sector (XLK)
-  4. Healthcare Sector (XLV)
+1. Energy Sector (XLE)
+2. Finance Sector (XLF)
+3. Technology Sector (XLK)
+4. Healthcare Sector (XLV)
 
 We sliced the closing data for three months prior to and three months after each 21st century presidential election.  Then we ran some calculations to obtain the daily returns, mean returns, and standard deviation of the daily returns.
 
 ### Does a correlation exist between market performance and the outcome of presidential election results?
 
-An article on Kiplinger posits that "...the stock market has an uncanny ability to predict who will call the White House home for the next four years. If the stock market is up in the three months leading up to the election, put your money on the incumbent party. Losses over those three months tend to usher in a new party" (Smith and Woodley, 2020). Our analysis found that...
-
-Analysis of sectors...
+An article on Kiplinger posits that "...the stock market has an uncanny ability to predict who will call the White House home for the next four years. If the stock market is up in the three months leading up to the election, put your money on the incumbent party. Losses over those three months tend to usher in a new party" (Smith and Woodley, 2020). Has this held true in the 21st century?
 
 ### Does a correlation exist between presidential election results and market performance?
 
-When we first began this project, this was the primary question we set out to answer. We found that...
+When we first began this project, this was the primary question we set out to answer.  Conventional wisdom holds that the occupant of the White House affects the market.  Is this true, at least right after an election?
 
-Analysis of sectors...
+### Analysis
+
+Our data show the following:  
+
+1. Bush’s first win (2000) - before and after the election, the market was down.  Energy and Finance were both up; Technology and Healthcare were both down.
+2. Bush’s second win (2004) - before and after the election, the market was up.  All sectors were up as well, expect for Healthcare, which was down before the election.
+3. Obama’s first win (2008) - before and after the election, the market and all sectors were down.
+4. Obama’s second win (2012) - before and after the election, the market and all sectors were up, except for Technology, which was down before the election.
+5. Trump’s win (2016) - before the election, the market was down; after the election, the market was up.  All sectors were up, except for Healthcare, which was down before the election.
+6. Biden’s win (2020) - before and after the election, the market was up.  All sectors were up, except for Energy, which was down before the election.
+
+For Bush's and Obama's first wins and Trump's win, the market was down in the three months prior to election, and a president was elected from a different party than the incumbent president. For the second Bush and Obama elections, the market was up prior to the election, and the incumbent was re-elected. For Biden's win, the market was up, and the incumbent was not re-elected.
+
+In our data set, there are three Republican wins.  After two of them, the market went up after the wins.  It went down after one Republican win.  There are also three Democratic wins, and the same is true - the market went up after two wins and down after one win.
+
+We remember that in 2008 there was an economic recession, which depressed the market.  We also remember that in 2020, there was a pandemic, which affected global markets.
 
 ### Data Sources and Works Consulted
 
