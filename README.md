@@ -1,8 +1,17 @@
 # PoliStock
 
-### Project Proposal and Outline
+### Project Summary
 
-Our project is to observe correlations between presidential elections and the stock market over the past 20 years. We'll examine the relationship between elections and the market from two perspectives: how market performance correlates to election outcomes and how one party's win correlates to the market. Our market analysis will focus on four S&P500 sectors along with the S&P 500 index.  
+We set out to observe correlations between presidential elections and the stock market over the past 20 years. We'll examine the relationship between elections and the market from two perspectives: how market performance correlates to election outcomes and how one party's win correlates to the market. Our market analysis will focus on four S&P500 sectors along with the S&P 500 index.  
+
+We used the Yahoo_fin Library to pull closing data for the S&P 500 index and four S&P 500 sectors:
+
+  1. Energy Sector (XLE)
+  2. Finance Sector (XLF)
+  3. Technology Sector (XLK)
+  4. Healthcare Sector (XLV)
+
+We sliced the closing data for three months prior to and three months after each 21st century presidential election.  Then we ran some calculations to obtain the daily returns, mean returns, and standard deviation of the daily returns.
 
 ### Does a correlation exist between market performance and the outcome of presidential election results?
 
