@@ -38,6 +38,10 @@ In our data set, there are three Republican wins.  After two of them, the market
 
 We remember that in 2008 there was an economic recession, which depressed the market.  We also remember that in 2020, there was a pandemic, which affected global markets.
 
+We did not find a clear correlation between who occupied the White House and market performance.  Further analysis and an expanded dataset might show a correlation, but our research suggested that this would not be the case.  We did see a correlation between market performance prior to elections and whehter or not the incumbent party retained control of the White House, as suggested by Smith and Woodley.
+
+Further analysis of market performance and Presidential elections in the 21st century will be interesting as the century unfolds.  
+
 ### Data Sources and Works Consulted
 
 AlgoTrading101. *Yahoo Finance API - A Complete Guide.* Retrieved October 2, 2021, https://algotrading101.com/learn/yahoo-finance-api-guide/.
